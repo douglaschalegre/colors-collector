@@ -31,7 +31,7 @@ export default function Home() {
       >
         <option value='Vermelho'>Vermelho</option>
         <option value='Rosa'>Rosa</option>
-        <option value='Roxo'>Rosa</option>
+        <option value='Roxo'>Roxo</option>
         <option value='Marrom'>Marrom</option>
         <option value='Laranja'>Laranja</option>
         <option value='Verde'>Verde</option>
